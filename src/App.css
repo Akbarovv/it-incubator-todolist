@@ -1,0 +1,22 @@
+/*.App {*/
+/*  padding: 30px;*/
+/*  display: flex;*/
+/*}*/
+
+/*.App > div {*/
+/*  margin-right: 50px;*/
+/*}*/
+
+.error {
+  border: red 3px solid;
+  outline: none;
+}
+.error-message {
+  color: red;
+}
+.active-filter {
+  color: aqua;
+}
+.is-done {
+  opacity: 0.5;
+}
